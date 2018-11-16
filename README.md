@@ -4,6 +4,7 @@
 Create serverless endpoints using modern JavaScript tooling.
 
 # Features
+* [Express](https://expressjs.com)
 * [Babel](https://babeljs.io)
 * [Flow](https://flow.org)
 * [ESLint](https://eslint.org)
